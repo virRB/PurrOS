@@ -1,4 +1,4 @@
-VTP v1 is a fairly simple language.
+VTP (Vir's Terminal plus) v1 is a fairly simple language.
 It currently supports creating colored text displays.
 
 The fur-mat is very simple:
